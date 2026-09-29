@@ -1,0 +1,6 @@
+sku,name,price,stock,updated_at,supplier
+SKU-105,Webcam 1080p,45.001,60,2026-09-28,Logi
+SKU-101,Wireless mouse,17.49,95,2026-09-28,Logi
+SKU-102,Mechanical Keyboard,79.00,35,2026-09-28,Keychron
+SKU-104,HDMI cable 2m,8.99,300,2026-09-28,Ugreen
+SKU-106,USB-C hub,24.99,40,2026-09-28,Anker
